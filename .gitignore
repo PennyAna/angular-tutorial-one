@@ -3,6 +3,9 @@
 # Compiled output
 /dist
 /tmp
+/angular
+/stackblitzrc
+
 
 # Node
 /node_modules
